@@ -1,0 +1,15 @@
+{
+  "name": "TriggerQSTask",
+  "description": "Trigger Qlik Sense task based on the task name",
+  "version" : "0.3.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/countnazgul/Start-QlikSense-Task-from-Qlikview.git"
+  },
+  "author": "Stefan Stoichev",
+  "license": "MIT",
+  "homepage": "https://github.com/countnazgul/Start-QlikSense-Task-from-Qlikview",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
